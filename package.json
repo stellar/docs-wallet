@@ -41,8 +41,8 @@
     "pretty-quick": "^2.0.1",
     "rollup-plugin-node-polyfills": "^0.2.1",
     "stellar-sdk": "^5.0.3",
-    "tweetnacl": "^1.0.3",
-    "toml": "^3.0.0"
+    "toml": "^3.0.0",
+    "tweetnacl": "^1.0.3"
   },
   "husky": {
     "hooks": {
