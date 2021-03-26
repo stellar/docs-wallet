@@ -30,6 +30,8 @@ export const config: Config = {
   commonjs: {
     namedExports: {
       "stellar-sdk": [
+        "Server",
+        "StellarTomlResolver",
         "StrKey",
         "xdr",
         "Transaction",
